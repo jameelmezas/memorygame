@@ -8,22 +8,22 @@ playerLivesCount.textContent = playerLives;
 
 //gegevens instellen
 const getData = () =>  [
-    { imgSrc: "../images/bruiloft.jpg", name: "bruiloft" },
-    { imgSrc: "../images/duim.jpg", name: "duim" },
-    { imgSrc: "../images/hartje.jpg", name: "hartje" },
-    { imgSrc: "../images/jetski.jpg", name: "jetski" },
-    { imgSrc: "../images/louis.jpg", name: "louis" },
-    { imgSrc: "../images/strand.jpg", name: "strand" },
-    { imgSrc: "../images/streepje.jpg", name: "streepje" },
-    { imgSrc: "../images/trein.jpg", name: "trein" },
-    { imgSrc: "../images/bruiloft.jpg", name: "bruiloft" },
-    { imgSrc: "../images/duim.jpg", name: "duim" },
-    { imgSrc: "../images/hartje.jpg", name: "hartje" },
-    { imgSrc: "../images/jetski.jpg", name: "jetski" },
-    { imgSrc: "../images/louis.jpg", name: "louis" },
-    { imgSrc: "../images/strand.jpg", name: "strand" },
-    { imgSrc: "../images/streepje.jpg", name: "streepje" },
-    { imgSrc: "../images/trein.jpg", name: "trein" },
+    { imgSrc: "images/bruiloft.jpg", name: "bruiloft" },
+    { imgSrc: "images/duim.jpg", name: "duim" },
+    { imgSrc: "images/hartje.jpg", name: "hartje" },
+    { imgSrc: "images/jetski.jpg", name: "jetski" },
+    { imgSrc: "images/louis.jpg", name: "louis" },
+    { imgSrc: "images/strand.jpg", name: "strand" },
+    { imgSrc: "images/streepje.jpg", name: "streepje" },
+    { imgSrc: "images/trein.jpg", name: "trein" },
+    { imgSrc: "images/bruiloft.jpg", name: "bruiloft" },
+    { imgSrc: "images/duim.jpg", name: "duim" },
+    { imgSrc: "images/hartje.jpg", name: "hartje" },
+    { imgSrc: "images/jetski.jpg", name: "jetski" },
+    { imgSrc: "images/louis.jpg", name: "louis" },
+    { imgSrc: "images/strand.jpg", name: "strand" },
+    { imgSrc: "images/streepje.jpg", name: "streepje" },
+    { imgSrc: "images/trein.jpg", name: "trein" },
 ];
 
 //Random maken
