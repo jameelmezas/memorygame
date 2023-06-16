@@ -8,22 +8,22 @@ playerLivesCount.textContent = playerLives;
 
 //gegevens instellen
 const getData = () =>  [
-    { imgSrc: "../images/bellingham.jpg", name: "bellingham" },
-    { imgSrc: "../images/benzema.jpg", name: "benzema" },
-    { imgSrc: "../images/marcelo.jpg", name: "marcelo" },
-    { imgSrc: "../images/mbappe.jpg", name: "mbappe" },
-    { imgSrc: "../images/messi.jpg", name: "messi" },
-    { imgSrc: "../images/neymar.jpg", name: "neymar" },
-    { imgSrc: "../images/ramos.jpg", name: "ramos" },
-    { imgSrc: "../images/ronaldo.jpg", name: "ronaldo" },
-    { imgSrc: "../images/bellingham.jpg", name: "bellingham" },
-    { imgSrc: "../images/benzema.jpg", name: "benzema" },
-    { imgSrc: "../images/marcelo.jpg", name: "marcelo" },
-    { imgSrc: "../images/mbappe.jpg", name: "mbappe" },
-    { imgSrc: "../images/messi.jpg", name: "messi" },
-    { imgSrc: "../images/neymar.jpg", name: "neymar" },
-    { imgSrc: "../images/ramos.jpg", name: "ramos" },
-    { imgSrc: "../images/ronaldo.jpg", name: "ronaldo" },
+    { imgSrc: "images/bellingham.jpg", name: "bellingham" },
+    { imgSrc: "images/benzema.jpg", name: "benzema" },
+    { imgSrc: "images/marcelo.jpg", name: "marcelo" },
+    { imgSrc: "images/mbappe.jpg", name: "mbappe" },
+    { imgSrc: "images/messi.jpg", name: "messi" },
+    { imgSrc: "images/neymar.jpg", name: "neymar" },
+    { imgSrc: "images/ramos.jpg", name: "ramos" },
+    { imgSrc: "images/ronaldo.jpg", name: "ronaldo" },
+    { imgSrc: "images/bellingham.jpg", name: "bellingham" },
+    { imgSrc: "images/benzema.jpg", name: "benzema" },
+    { imgSrc: "images/marcelo.jpg", name: "marcelo" },
+    { imgSrc: "images/mbappe.jpg", name: "mbappe" },
+    { imgSrc: "images/messi.jpg", name: "messi" },
+    { imgSrc: "images/neymar.jpg", name: "neymar" },
+    { imgSrc: "images/ramos.jpg", name: "ramos" },
+    { imgSrc: "images/ronaldo.jpg", name: "ronaldo" },
 ];
 
 //Random maken
